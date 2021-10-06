@@ -12,11 +12,11 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 - 🏃🏼‍♂️ Running is my best sport 
 
 
-## My github stats
+## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amar-Mahdy&show_icons=true&theme=radical)
 
 
-## 🔧 Technologies & Tools
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-Mahdy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
