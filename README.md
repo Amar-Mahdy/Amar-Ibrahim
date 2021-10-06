@@ -24,4 +24,4 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 
 ## 🔧 Technologies & Tools
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>
+
