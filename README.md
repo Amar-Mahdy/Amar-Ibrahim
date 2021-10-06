@@ -2,9 +2,6 @@
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
 
-<img src="https://thumbs.gfycat.com/AncientBouncyLeafcutterant-size_restricted.gif" width="300px" margin-left="10px">
-
-
 ![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
 
 ## 👉 About Me
@@ -14,7 +11,7 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 - 🌱 I’m currently learning fullstack development
 - 👯 I’m looking to collaborate on all kind of projects.
 - 💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities.
-- 🏃🏼‍♂️ Running is my best sport 
+- 🏃🏼‍♂️ Running is my best sport <img src="https://thumbs.gfycat.com/AncientBouncyLeafcutterant-size_restricted.gif" width="300px" margin-left="10px">
 
 ## 👉 Get in touch 
 [![Gmail Badge](https://img.shields.io/badge/-ammaradel805@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ammaradel805@gmail.com)](mailto:ammaradel805@gmail.com) 
