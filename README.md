@@ -2,6 +2,8 @@
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
 
+![Profile views](https://gpvc.arturio.dev/[Amar-Mahdy])
+
 ## 👉 About Me
 
 - 🔭 I’m currently working on my portfolio.
@@ -21,3 +23,6 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-Mahdy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+#1877F2
