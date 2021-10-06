@@ -1,4 +1,4 @@
-### Hi there 👋 I am Amar <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47w930drkfpilndsbpfrr1wea8k8mga001juwitpr9&rid=giphy.gif&ct=g" width="30px">
+### Hi there 👋 I am Amar <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47w930drkfpilndsbpfrr1wea8k8mga001juwitpr9&rid=giphy.gif&ct=g" width="30px" margin-left="10px">
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
 
