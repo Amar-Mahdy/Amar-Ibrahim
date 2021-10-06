@@ -4,7 +4,7 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="30px">
 <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="30px">
 
-<img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen>
+<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 
 ![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
 
