@@ -14,7 +14,7 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amar-Mahdy&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amar-Mahdy)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
