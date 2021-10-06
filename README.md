@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Amar 
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/wave.gif" width="30px">
+<img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="30px">
 <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="30px">
 <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="48" height="48" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">
 
