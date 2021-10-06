@@ -2,7 +2,7 @@
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
 ##
-![Profile views](https://gpvc.arturio.dev/[Amar-Mahdy])
+![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
 
 ## 👉 About Me
 
