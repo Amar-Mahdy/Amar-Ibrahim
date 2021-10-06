@@ -17,5 +17,7 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 
 
 ## 🔧 Technologies & Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔧 Technologies & Tools
