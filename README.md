@@ -21,7 +21,8 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/officel/48/000000/mysql.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/officel/48/000000/react.png"/><img src="https://img.icons8.com/color-glass/48/000000/github.png"/>
 
 ## 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amar-Mahdy&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-Mahdy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amar-Mahdy&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-Mahdy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ##
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amar_mahdy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
