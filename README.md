@@ -14,7 +14,7 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 - 💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities.
 - 🏃🏼‍♂️ Running is my best sport 
 
-##  Get in touch 
+## 👉 Get in touch 
 [![Gmail Badge](https://img.shields.io/badge/-ammaradel805@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ammaradel805@gmail.com)](mailto:ammaradel805@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/amaribrahim55/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/amaribrahim55//)](https://www.linkedin.com/in/https://www.linkedin.com/in/amaribrahim55//) [![Github Badge](https://img.shields.io/badge/-https://github.com/AmarMahdy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/AmarMahdy/)](https://www.github.com/https://github.com/AmarMahdy/)
 
