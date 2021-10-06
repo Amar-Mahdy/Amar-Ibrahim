@@ -13,7 +13,8 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 
 
 ## 🔧 Technologies & Tools
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar-Mahdy &theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amar-Mahdy)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔧 Technologies & Tools
 
 ## 🔧 Technologies & Tools
