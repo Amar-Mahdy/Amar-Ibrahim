@@ -1,10 +1,9 @@
 ### Hi there 👋 I am Amar 
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
-<img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="30px">
-<img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="30px">
 
-<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="30px">
+
 
 ![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
 
