@@ -2,7 +2,7 @@
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Frolling-chair-gifs&psig=AOvVaw226nmYyjnaSXaMg6zpPQoi&ust=1633644590014000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCoiMDmtvMCFQAAAAAdAAAAABAs" width="500px" margin-left="10px">
+<img src="https://thumbs.gfycat.com/AncientBouncyLeafcutterant-size_restricted.gif" width="300px" margin-left="10px">
 
 
 ![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
