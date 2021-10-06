@@ -26,12 +26,13 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-Mahdy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-## Hey 👋, This is Amar
+##  Get in touch 
 [![Gmail Badge](https://img.shields.io/badge/-ammaradel805@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ammaradel805@gmail.com)](mailto:ammaradel805@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/amaribrahim55-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/amaribrahim55/)](https://www.linkedin.com/in/www.linkedin.com/in/amaribrahim55/) [![Github Badge](https://img.shields.io/badge/-AmarMahdy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AmarMahdy/)](https://www.github.com/AmarMahdy/) [![Twitter Badge](https://img.shields.io/badge/-ammaradel805@gmail.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ammaradel805@gmail.com/)](https://www.twitter.com/ammaradel805@gmail.com/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ammaradel805@gmail.com/)](ammaradel805@gmail.com/) <p align='left'> You can view my resume <a href='ammaradel805@gmail.com ' target=_blank><u>here</u>.</a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/amaribrahim55/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/amaribrahim55//)](https://www.linkedin.com/in/https://www.linkedin.com/in/amaribrahim55//) [![Github Badge](https://img.shields.io/badge/-https://github.com/AmarMahdy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/AmarMahdy/)](https://www.github.com/https://github.com/AmarMahdy/) [![Twitter Badge](https://img.shields.io/badge/-ammaradel805@gmail.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ammaradel805@gmail.com/)](https://www.twitter.com/ammaradel805@gmail.com/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ammaradel805@gmail.com/)](ammaradel805@gmail.com/) <p align='left'> You can view my resume <a href='ammaradel805@gmail.com ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=AmarMahdy alt=AmarMahdy /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=https://github.com/AmarMahdy alt=https://github.com/AmarMahdy /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AmarMahdy&show_icons=true&include_all_commits=true)](https://github.com/AmarMahdy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarMahdy&layout=compact)](https://github.com/AmarMahdy/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AmarMahdy&show_icons=true&include_all_commits=true)](https://github.com/https://github.com/AmarMahdy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AmarMahdy&layout=compact)](https://github.com/https://github.com/AmarMahdy/github-readme-stats)
+
 
