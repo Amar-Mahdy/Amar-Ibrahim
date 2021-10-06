@@ -2,7 +2,7 @@
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
 
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="500px" margin-left="10px">
+<img src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.webp?cid=ecf05e47s9mx8nuto88o3dcoavoa7ba0471f7jhk4jm4perc&rid=200w.webp&ct=g" width="500px" margin-left="10px">
 
 
 ![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
