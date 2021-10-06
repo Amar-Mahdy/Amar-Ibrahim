@@ -13,7 +13,7 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 - 💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities.
 - 🏃🏼‍♂️ Running is my best sport
 
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="300px" margin-left="10px" align="left">
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="300px" align="right">
 
 ## 👉 Get in touch 
 [![Gmail Badge](https://img.shields.io/badge/-ammaradel805@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ammaradel805@gmail.com)](mailto:ammaradel805@gmail.com) 
