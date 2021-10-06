@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Amar
 
 I'm a software developer. I'm from Egypt, living in Netherland and currently studnt at HackYourFuture.
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/code.gif" width="30px">
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/what'sup.gif" width="30px">
 
 ![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
 
