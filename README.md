@@ -5,7 +5,7 @@ I'm a software developer. I'm from Egypt, living in Netherland and currently stu
 ![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
 
 ## 👉 About Me
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="300px" align="right" hight="200px">
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="300px" align="right" hight="180px">
 
 - 🔭 I’m currently working on my portfolio.
 - 👨🏼‍🎓 I have a BS in pharmacy
