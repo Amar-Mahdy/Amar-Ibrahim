@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Amar
 
-a software developer, from Egypt, living in Netherland.
+A Data Engineer, from Egypt, living in Netherland.
 
 ![Profile views](https://gpvc.arturio.dev/Amar-Mahdy)
 
